@@ -38,8 +38,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "Dream",
+            "Dream.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "SleepMusic",
+            "SleepMusic.json"
           ]
         }
       ],

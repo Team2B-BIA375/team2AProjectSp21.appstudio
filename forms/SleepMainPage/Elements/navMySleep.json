@@ -18,7 +18,7 @@
   "fontSize": "12",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 76,
+  "height": 80,
   "hidden": "",
   "id": "navMySleep",
   "items": "*Enter your sleep\nView your sleep log\nLog a dream\nSleep Music",
@@ -29,7 +29,7 @@
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "",
+  "onclick": "navMySleep.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -52,7 +52,7 @@
   "script": "",
   "style": "",
   "tabStyle": "",
-  "top": 2,
+  "top": 379,
   "vertical": "",
   "width": 321
 }

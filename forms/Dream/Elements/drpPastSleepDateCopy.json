@@ -30,9 +30,9 @@
   "height": 55,
   "hidden": "",
   "icon": "caret",
-  "id": "drpPastSleepDate",
+  "id": "drpPastSleepDateCopy",
   "items": "",
-  "left": 82,
+  "left": 95,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -62,7 +62,7 @@
   "script": "",
   "size": " btn-sm",
   "style": "",
-  "top": 151,
+  "top": 148,
   "value": "Date",
   "width": 108
 }

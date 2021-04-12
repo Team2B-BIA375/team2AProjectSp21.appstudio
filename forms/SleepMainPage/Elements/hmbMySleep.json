@@ -37,7 +37,7 @@
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "",
+  "onclick": "hmbMySleep.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
