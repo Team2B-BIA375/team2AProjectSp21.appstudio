@@ -22,6 +22,22 @@
           "!type": "External",
           "file": [
             "forms",
+            "SleepMainPage",
+            "SleepMainPage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "PastSleep",
+            "PastSleep.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "Form1",
             "Form1.json"
           ]
@@ -46,7 +62,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "SleepMainPage",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
