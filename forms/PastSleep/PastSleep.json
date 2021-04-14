@@ -61,7 +61,7 @@
         "forms",
         "PastSleep",
         "Elements",
-        "lblPastSleepMessage.json"
+        "btnNextDream.json"
       ]
     },
     {
@@ -70,7 +70,7 @@
         "forms",
         "PastSleep",
         "Elements",
-        "btnNextDream.json"
+        "lblPastSleepMessage.json"
       ]
     }
   ],

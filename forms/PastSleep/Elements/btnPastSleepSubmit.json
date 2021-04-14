@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnPastSleepSubmit",
-  "left": 132,
+  "left": 130,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-sm",
   "style": "",
   "toggleControl": "",
-  "top": 251,
+  "top": 227,
   "value": "Submit",
   "width": "auto"
 }

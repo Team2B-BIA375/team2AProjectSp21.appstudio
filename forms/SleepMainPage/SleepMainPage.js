@@ -9,18 +9,18 @@ hmbGlobal.onclick=function(s){
     return
   else {
        switch(s) {
-          case "Log Sleep":
+          case "Diet":
+            ChangeForm(Diet)
+            break
+          case "Fitness":
+            ChangeForm(Fitness)
+            break
+          case "Sleep":
             ChangeForm(SleepMainPage)
             break
-          case "Sleep Log":
-            ChangeForm(PastSleep)
-            break
-          case "Log Dream":
-            ChangeForm(Dream)
-            break
-          case "Sleep Music":
+          case "Log Out":
                 // Go to the Mobile Nav form
-            ChangeForm(SleepMusic)
+            ChangeForm(LogOut)
             break
        }  //switch
    } //else

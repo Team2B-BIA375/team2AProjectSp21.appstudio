@@ -34,7 +34,7 @@
         "forms",
         "PastDreams",
         "Elements",
-        "txtaPastSleepLog1.json"
+        "txtaPastDreamLog.json"
       ]
     },
     {
@@ -43,7 +43,7 @@
         "forms",
         "PastDreams",
         "Elements",
-        "btnPastSleepSubmit1.json"
+        "btnPastDreamSubmit.json"
       ]
     },
     {
@@ -52,16 +52,7 @@
         "forms",
         "PastDreams",
         "Elements",
-        "inptPastDream.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "PastDreams",
-        "Elements",
-        "lblPastSleepMessage1.json"
+        "inptPastDreamDate.json"
       ]
     },
     {
@@ -71,6 +62,15 @@
         "PastDreams",
         "Elements",
         "btnNextMusic.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "PastDreams",
+        "Elements",
+        "lblPastDreamMessage.json"
       ]
     }
   ],

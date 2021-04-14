@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnNextDream",
-  "left": 118,
+  "left": 117,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-sm",
   "style": "",
   "toggleControl": "",
-  "top": 421,
+  "top": 393,
   "value": "Log a Dream",
   "width": "auto"
 }

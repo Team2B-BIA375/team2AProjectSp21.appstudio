@@ -46,16 +46,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "SleepMusic",
-            "SleepMusic.json"
+            "PastDreams",
+            "PastDreams.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "PastDreams",
-            "PastDreams.json"
+            "SleepMusic",
+            "SleepMusic.json"
           ]
         }
       ],
@@ -78,7 +78,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "SleepMainPage",
+      "firstform": "SleepMusic",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
