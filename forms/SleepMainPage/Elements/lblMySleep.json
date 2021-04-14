@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblMySleep",
   "labelStyle": "text",
-  "left": 82,
+  "left": 66,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "text-align:center",
-  "top": 88,
+  "top": 47,
   "value": "My Sleep",
   "width": 178
 }

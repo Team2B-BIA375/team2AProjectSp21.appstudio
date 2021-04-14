@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblPastSleep",
   "labelStyle": "text",
-  "left": 82,
+  "left": 83,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "text-align:center",
-  "top": 88,
+  "top": 43,
   "value": "View Sleep Log",
   "width": 178
 }

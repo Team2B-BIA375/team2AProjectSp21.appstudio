@@ -1,7 +1,7 @@
 {
   "!type": "Button_bs4",
   "ChangeForm": "",
-  "appearance": " btn-secondary",
+  "appearance": " btn-danger",
   "backgroundColor": "",
   "badge": "",
   "badgeAppearance": " badge-info",
@@ -29,13 +29,13 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnMySleepSubmit",
-  "left": 130,
+  "left": 120,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "",
+  "onclick": "btnMySleepSubmit.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +60,7 @@
   "size": " btn-sm",
   "style": "",
   "toggleControl": "",
-  "top": 376,
+  "top": 278,
   "value": "Submit",
   "width": "auto"
 }

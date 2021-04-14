@@ -49,6 +49,14 @@
             "SleepMusic",
             "SleepMusic.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "PastDreams",
+            "PastDreams.json"
+          ]
         }
       ],
       "configxml": null,

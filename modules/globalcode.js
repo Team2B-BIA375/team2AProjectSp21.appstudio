@@ -1,0 +1,1 @@
+NSBPage.appendChild(hdrGlobal);

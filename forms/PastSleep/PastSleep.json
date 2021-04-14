@@ -16,16 +16,7 @@
         "forms",
         "PastSleep",
         "Elements",
-        "hmbPastSleep.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "PastSleep",
-        "Elements",
-        "navPastSleep.json"
+        "hdrGlobalCopy.json"
       ]
     },
     {
@@ -35,15 +26,6 @@
         "PastSleep",
         "Elements",
         "lblPastSleep.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "PastSleep",
-        "Elements",
-        "drpPastSleepDate.json"
       ]
     },
     {
@@ -62,6 +44,33 @@
         "PastSleep",
         "Elements",
         "btnPastSleepSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "PastSleep",
+        "Elements",
+        "inptPastSleepDate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "PastSleep",
+        "Elements",
+        "lblPastSleepMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "PastSleep",
+        "Elements",
+        "btnNextDream.json"
       ]
     }
   ],

@@ -16,24 +16,6 @@
         "forms",
         "Dream",
         "Elements",
-        "hmbDream.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Dream",
-        "Elements",
-        "navDream.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Dream",
-        "Elements",
         "lblDream.json"
       ]
     },
@@ -43,16 +25,7 @@
         "forms",
         "Dream",
         "Elements",
-        "drpPastSleepDateCopy.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Dream",
-        "Elements",
-        "txtaPastSleepLogCopy.json"
+        "txtaDream.json"
       ]
     },
     {
@@ -62,6 +35,33 @@
         "Dream",
         "Elements",
         "btnDreamSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Dream",
+        "Elements",
+        "inptDreamDate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Dream",
+        "Elements",
+        "btnNextViewDreams.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Dream",
+        "Elements",
+        "lblDreamMessage.json"
       ]
     }
   ],

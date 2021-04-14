@@ -14,108 +14,63 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "PastDreams",
         "Elements",
-        "hdrGlobal.json"
+        "hdrGlobalCopy1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "PastDreams",
         "Elements",
-        "lblMySleep.json"
+        "lblPastDream.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "PastDreams",
         "Elements",
-        "lblMySleepDate.json"
+        "txtaPastSleepLog1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "PastDreams",
         "Elements",
-        "lblMySleepDuration.json"
+        "btnPastSleepSubmit1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "PastDreams",
         "Elements",
-        "lblMySleepQuality.json"
+        "inptPastDream.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "PastDreams",
         "Elements",
-        "drpMySleepQuality.json"
+        "lblPastSleepMessage1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "PastDreams",
         "Elements",
-        "inptMySleepDuration.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "SleepMainPage",
-        "Elements",
-        "inptMySleepDate.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "SleepMainPage",
-        "Elements",
-        "btnMySleepSubmit.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "SleepMainPage",
-        "Elements",
-        "pgnMySleep.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "SleepMainPage",
-        "Elements",
-        "lblMySleepMessage.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "SleepMainPage",
-        "Elements",
-        "btnNextPastSleep.json"
+        "btnNextMusic.json"
       ]
     }
   ],
@@ -125,7 +80,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "SleepMainPage",
+  "id": "PastDreams",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

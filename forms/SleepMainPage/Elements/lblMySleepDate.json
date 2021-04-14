@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblMySleepDate",
   "labelStyle": "text",
-  "left": 28,
+  "left": 77,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -41,8 +41,8 @@
   "pTop": "",
   "right": "auto",
   "script": "",
-  "style": "",
-  "top": 151,
+  "style": "text-align:right",
+  "top": 103,
   "value": "Date:",
   "width": 74
 }
