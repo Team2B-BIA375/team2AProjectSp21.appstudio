@@ -14,45 +14,54 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "SleepWelcomePage",
         "Elements",
-        "Dropdown1.json"
+        "lblWelcome.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "SleepWelcomePage",
         "Elements",
-        "Input1.json"
+        "btnLogSleep.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "SleepWelcomePage",
         "Elements",
-        "Input2.json"
+        "btnSleepLog.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "SleepWelcomePage",
         "Elements",
-        "Button1.json"
+        "btnLogDream.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "SleepWelcomePage",
         "Elements",
-        "Input3.json"
+        "btnDreamLog.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "SleepWelcomePage",
+        "Elements",
+        "btnSleepMusic.json"
       ]
     }
   ],
@@ -62,7 +71,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Form1",
+  "id": "SleepWelcomePage",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

@@ -14,7 +14,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "EnterSleep",
         "Elements",
         "hmbGlobal.json"
       ]

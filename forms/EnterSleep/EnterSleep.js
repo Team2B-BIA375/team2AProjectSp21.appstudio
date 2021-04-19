@@ -16,7 +16,7 @@ hmbGlobal.onclick=function(s){
             ChangeForm(Fitness)
             break
           case "Sleep":
-            ChangeForm(SleepMainPage)
+            ChangeForm(SleepWelcomePage)
             break
           case "Log Out":
                 // Go to the Mobile Nav form

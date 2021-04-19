@@ -17,9 +17,9 @@
   "fontWeight": "",
   "height": "auto",
   "hidden": "",
-  "id": "lblSleepMusic",
+  "id": "lblWelcome",
   "labelStyle": "text",
-  "left": 3,
+  "left": 55,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "text-align:center",
-  "top": 340,
-  "value": "Listen to Some Sleep Music",
-  "width": 321
+  "top": 61,
+  "value": "Welcome to the Sleep Page",
+  "width": 219
 }

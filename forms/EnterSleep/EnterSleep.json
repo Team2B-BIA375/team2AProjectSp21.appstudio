@@ -14,7 +14,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "EnterSleep",
         "Elements",
         "hdrGlobal.json"
       ]
@@ -23,7 +23,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "EnterSleep",
         "Elements",
         "lblMySleep.json"
       ]
@@ -32,7 +32,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "EnterSleep",
         "Elements",
         "lblMySleepDate.json"
       ]
@@ -41,7 +41,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "EnterSleep",
         "Elements",
         "lblMySleepDuration.json"
       ]
@@ -50,7 +50,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "EnterSleep",
         "Elements",
         "lblMySleepQuality.json"
       ]
@@ -59,7 +59,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "EnterSleep",
         "Elements",
         "drpMySleepQuality.json"
       ]
@@ -68,7 +68,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "EnterSleep",
         "Elements",
         "inptMySleepDuration.json"
       ]
@@ -77,7 +77,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "EnterSleep",
         "Elements",
         "inptMySleepDate.json"
       ]
@@ -86,7 +86,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "EnterSleep",
         "Elements",
         "btnMySleepSubmit.json"
       ]
@@ -95,7 +95,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "EnterSleep",
         "Elements",
         "pgnMySleep.json"
       ]
@@ -104,7 +104,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "EnterSleep",
         "Elements",
         "lblMySleepMessage.json"
       ]
@@ -113,7 +113,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "SleepMainPage",
+        "EnterSleep",
         "Elements",
         "btnNextPastSleep.json"
       ]
@@ -125,7 +125,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "SleepMainPage",
+  "id": "EnterSleep",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
