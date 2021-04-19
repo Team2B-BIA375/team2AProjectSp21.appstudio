@@ -13,9 +13,11 @@ btnPastSleepSubmit.onclick=function(){
         console.log(results)
         if (results.length == 0)    
            txtaPastSleepLog.value = "There is no sleep log for that date."
-        else {        
-           txtaPastSleepLog.value = results
-           //txtaPastSleepLog.value = `Displaying sleep log for ${results[0][1]} \n Duration: ${results[1][1]} \n Quality: ${results[2][1]}`
+        else {     
+            let message = ""
+            for (i = 0; i < results.length; i++)
+                message = message + 'Showing sleep log for: ' + results[i][0]+ '\nSleep Duration: ' + results[i][1] + '\nQuality: ' + results[i][2] 
+           txtaPastSleepLog.value = message
         } // end else
 
     } else   // the transit didn't work - bad wifi? server turned off?

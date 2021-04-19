@@ -13,7 +13,7 @@ btnPastDreamSubmit.onclick=function(){
         console.log(results)
         if (results.length == 0)    
            txtaPastDreamLog.value = "There is no sleep log for that date."
-        else {        
+         else {    
            txtaPastDreamLog.value = results
            //txtaPastDreamLog.value = `Displaying sleep log for ${results[0][1]} \n Duration: ${results[1][1]} \n Quality: ${results[2][1]}`
         } // end else
