@@ -22,8 +22,24 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "LogIn",
+            "LogIn.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "SignUp",
+            "SignUp.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Welcome",
+            "Welcome.json"
           ]
         }
       ],
@@ -46,7 +62,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "LogIn",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
