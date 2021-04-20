@@ -29,7 +29,7 @@
   "iconTitle": "",
   "id": "txtaPastSleepLog",
   "inputmode": "",
-  "left": 2,
+  "left": 6,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -78,5 +78,5 @@
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 311
+  "width": 314
 }

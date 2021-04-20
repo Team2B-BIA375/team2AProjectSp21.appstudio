@@ -66,3 +66,28 @@ drpMySleepQuality.onclick=function(s){
 btnNextPastSleep.onclick=function(){
   ChangeForm(PastSleep)
 }
+
+pgnMySleep.onclick=function(s){ // when just click the control. 's' is
+                              // the object returned
+    if (typeof(s) == "object") { // do nothing - they just clicked on the control
+       return
+    } else {
+       switch(s) {
+            case "Log Sleep":
+                ChangeForm(EnterSleep)
+                break
+            case "Sleep Log":
+                ChangeForm(PastSleep)
+                break
+            case "Log Dream":
+                ChangeForm(Dream)
+                break
+            case "Dream Log":
+                ChangeForm(PastDreams)
+                break
+            case "Sleep Music":
+                ChangeForm(SleepMusic)
+                break
+       }  //switch
+   } //else
+}
