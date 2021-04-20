@@ -1,0 +1,92 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogIn",
+        "Elements",
+        "userInpt.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogIn",
+        "Elements",
+        "passInpt.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogIn",
+        "Elements",
+        "submit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogIn",
+        "Elements",
+        "Button2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogIn",
+        "Elements",
+        "Label3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogIn",
+        "Elements",
+        "Label4.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "LogIn",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
